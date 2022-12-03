@@ -230,6 +230,7 @@ body{
         background-repeat: no-repeat;
         background-position: top right;
         background-size: 100%;
+        min-width: 375px;
         
     }
     .container{
